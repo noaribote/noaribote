@@ -16,7 +16,6 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=noaribote&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile views"/>
 </div>
-### Les incontournables
 
 ---
 
