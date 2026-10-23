@@ -17,7 +17,9 @@
 <img src="https://komarev.com/ghpvc/?username=noaribote&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile views"/>
 </div>
 ### Les incontournables
+
 ---
+
 <div align="center">
 <a href="https://github.com/noaribote/tPlan">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=noaribote&repo=tPlan&theme=tokyonight&hide_border=true" alt="Featured project one"/>
