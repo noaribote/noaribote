@@ -22,16 +22,12 @@
 <a href="https://github.com/noaribote/tPlan">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=noaribote&repo=tPlan&theme=tokyonight&hide_border=true" alt="Featured project one"/>
 </a>
+<a href="https://github.com/noaribote/ASF">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=noaribote&repo=ASF&theme=tokyonight&hide_border=true" alt="Featured project one"/>
+</a>
 <a href="https://github.com/noaribote/NCV1-Modloader">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=noaribote&repo=NCV1-ModLoader&theme=tokyonight&hide_border=true" alt="Featured project two"/>
 </a>
-</div>
-### Selon GitHub
----
-<div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noaribote&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages"/>
-<br/>
-<img width="70%" src="https://streak-stats.demolab.com?user=noaribote&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub contribution streak"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:4B00FF,100:FF00A8&height=100&section=footer" width="100%" alt="Footer banner"/>
