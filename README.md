@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:4B00FF,100:FF00A8&height=300&section=header&text=RIBOTE--MORAL%20NOA&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Lead%20Developer%20Full-Stack%20%26%20DevOps&descSize=16&descAlignY=60" alt="Profile banner"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:4B00FF,100:FF00A8&height=300&section=header&text=RIBOTE--MORAL%20NOA&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Lead%20Developer%20Full-Stack%20et%20DevOps&descSize=16&descAlignY=60" alt="Profile banner"/>
   <br/>
   <a href="https://github.com/noaribote">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
