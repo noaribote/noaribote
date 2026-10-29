@@ -1,37 +1,40 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000,50:000,100:000&height=300&section=header&text=RIBOTE--MORAL%20NOA&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Lead%20Developer%20Full-Stack%20et%20DevOps&descSize=16&descAlignY=60" alt="Profile banner"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000,50:000,100:000&height=300&section=header&text=RIBOTE--MORAL%20NOA&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Lead%20Developer%20Full-Stack%20et%20DevOps&descSize=16&descAlignY=60" alt=""/>
   <br/>
   <a href="https://github.com/noaribote">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt=""/>
   </a>
   <a href="https://www.linkedin.com/in/ribote-noa">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/>
   </a>
   <a href="mailto:noaribotemoral@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20me-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Contact%20me-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt=""/>
   </a>
   <br/>
   <div style="margin:20px 0" align="center">
-    <img src="https://skillicons.dev/icons?i=php,js,nodejs,mysql,netlify,python,git,vscode,linux,windows&theme=dark&perline=10" alt="Technology stack"/>
+    <img src="https://skillicons.dev/icons?i=php,js,nodejs,mysql,netlify,python,git,vscode,linux,windows&theme=dark&perline=10" alt=""/>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=noaribote&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=noaribote&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS" alt=""/>
 </div>
 
 ---
 
 <div align="center">
   <a href="https://github.com/noaribote/tPlan">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=noaribote&repo=tPlan&theme=tokyonight&hide_border=true" alt="Featured project one"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=noaribote&repo=tPlan&theme=tokyonight&hide_border=true" alt=""/>
   </a>
   <a href="https://github.com/noaribote/ASF">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=noaribote&repo=ASF&theme=tokyonight&hide_border=true" alt="Featured project one"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=noaribote&repo=ASF&theme=tokyonight&hide_border=true" alt=""/>
   </a>
   <a href="https://github.com/noaribote/NCV1-Modloader">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=noaribote&repo=NCV1-ModLoader&theme=tokyonight&hide_border=true" alt="Featured project two"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=noaribote&repo=NCV1-ModLoader&theme=tokyonight&hide_border=true" alt=""/>
+  </a>
+  <a href="https://github.com/noaribote/Portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=noaribote&repo=Portfolio&theme=tokyonight&hide_border=true" alt=""/>
   </a>
   <a href="https://github.com/noaribote/AscensionZ-Launcher">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=noaribote&repo=AscensionZ-Launcher&theme=tokyonight&hide_border=true" alt="Featured project two"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=noaribote&repo=AscensionZ-Launcher&theme=tokyonight&hide_border=true" alt=""/>
   </a>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000,50:000,100:000&height=100&section=footer" width="100%" alt="Footer banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000,50:000,100:000&height=100&section=footer" width="100%" alt=""/>
