@@ -23,14 +23,11 @@
   <a href="https://github.com/noaribote/tPlan">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=noaribote&repo=tPlan&theme=tokyonight&hide_border=true" alt=""/>
   </a>
-  <a href="https://github.com/noaribote/ASF">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=noaribote&repo=ASF&theme=tokyonight&hide_border=true" alt=""/>
-  </a>
-  <a href="https://github.com/noaribote/NCV1-Modloader">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=noaribote&repo=NCV1-ModLoader&theme=tokyonight&hide_border=true" alt=""/>
-  </a>
   <a href="https://github.com/noaribote/Portfolio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=noaribote&repo=Portfolio&theme=tokyonight&hide_border=true" alt=""/>
+  </a>
+  <a href="https://github.com/noaribote/NCV1-ModLoader">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=noaribote&repo=NCV1-ModLoader&theme=tokyonight&hide_border=true" alt=""/>
   </a>
   <a href="https://github.com/noaribote/AscensionZ-Launcher">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=noaribote&repo=AscensionZ-Launcher&theme=tokyonight&hide_border=true" alt=""/>
