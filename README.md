@@ -17,21 +17,4 @@
   <img src="https://komarev.com/ghpvc/?username=noaribote&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS" alt=""/>
 </div>
 
----
-
-<div align="center">
-  <a href="https://github.com/noaribote/tPlan">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=noaribote&repo=tPlan&theme=tokyonight&hide_border=true" alt=""/>
-  </a>
-  <a href="https://github.com/noaribote/Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=noaribote&repo=Portfolio&theme=tokyonight&hide_border=true" alt=""/>
-  </a>
-  <a href="https://github.com/noaribote/NCV1-ModLoader">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=noaribote&repo=NCV1-ModLoader&theme=tokyonight&hide_border=true" alt=""/>
-  </a>
-  <a href="https://github.com/noaribote/AscensionZ-Launcher">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=noaribote&repo=AscensionZ-Launcher&theme=tokyonight&hide_border=true" alt=""/>
-  </a>
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000,50:000,100:000&height=100&section=footer" width="100%" alt=""/>
